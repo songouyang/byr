@@ -71,4 +71,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
     
     with Byr(args.username, args.password) as byr:
-        byr.comment("https://bbs.byr.cn/n/article/ParttimeJob/882238", "UP")
+        byr.comment("https://bbs.byr.cn/n/article/ParttimeJob/892168", "UP")
